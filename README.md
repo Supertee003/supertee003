@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **Aspire to be the DJ**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&show_icons=truer&rank_icon=github&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&show_icons=truer&rank_icon=github&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertee003&hide_progress=true&theme=transparent)
 
