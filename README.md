@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **ฺBall's Control**
-- 🌱 I’m currently learning **CVE:**
+- 🌱 I’m currently learning **CVE**
 - 👯 I’m looking to collaborate on **Inner Source**
-- 🤔 I’m looking for help with **Raise->Fix->Deploy Incent**
+- 🤔 I’m looking for help with **Raise->Fix->**Deploy Incent****
 - 💬 Ask me about **UX**
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
