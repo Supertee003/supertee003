@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&show_icons=Github logo instead rank level&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&show_icons=github querystring parameter&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertee003&hide_progress=true&theme=transparent)
