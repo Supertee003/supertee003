@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **ฺBall's Control**
+- 🔭 I’m currently working on **Clients in Prison and Probation Services**
 - 🌱 I’m currently learning **CVE**
 - 👯 I’m looking to collaborate on **Inner Source**
 - 🤔 I’m looking for help with **Raise->Fix->**Deploy Incent****
 - 💬 Ask me about **UX**
-- 📫 How to reach me: 
+- 📫 How to reach me: ..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **Aspire to be the DJ**
 
