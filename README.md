@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Clients in Prison and Probation Services**
+- 🔭 I’m currently focusing on **Clients in Prison and Probation Services**
 - 🌱 I’m currently learning **CVE**
 - 👯 I’m looking to collaborate on **Inner Source**
 - 🤔 I’m looking for help with **Raise->Fix->**Deploy Incent****
