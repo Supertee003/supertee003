@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/angular-%2341454A?style=for-the-badge&logo=angular&logoColor=%23DD1100&labelColor=%23F8F8F5"/>
+  <img src="https://img.shields.io/badge/angular-%23212121?style=for-the-badge&logo=angular&logoColor=%23E34F26&labelColor=%23FAFAFA"/>
   <img src="https://img.shields.io/badge/html5-%23212121?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23FAFAFA"/>
 </div>
 
