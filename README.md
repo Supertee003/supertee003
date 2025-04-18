@@ -27,12 +27,13 @@ Here are some ideas to get you started:
 
 <h4>Frontend:</h4>
 <hr>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <br> 
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<br> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <br>
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/angular-%23212121?style=for-the-badge&logo=angular&logoColor=%23DD1100&labelColor=%23FAFAFA&href="https://angular.io""/>
+   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/angular-%23212121?style=for-the-badge&logo=angular&logoColor=%23DD1100&labelColor=%23FAFAFA"/> </a>
   <img src="https://img.shields.io/badge/html5-%23212121?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23FAFAFA"/>
 </div>
 
