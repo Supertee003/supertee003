@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div display="flex">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/angular-%23212121?style=for-the-badge&logo=angular&logoColor=%23DD1100&labelColor=%23FAFAFA"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <a href="https://www.w3schools.com/Html/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/html5-%23212121?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23FAFAFA"/> </a>
 </div>
 
