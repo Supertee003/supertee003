@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertee003&hide_progress=true&theme=onedark) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/30247391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/  icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
+  <a href="https://stackoverflow.com/users/30247391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/  icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
 </p>
 <html>
   <head>
