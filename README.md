@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br>
 
 <div display="flex">
-   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/angular-%23212121?style=for-the-badge&logo=angular&logoColor=%23DD1100&labelColor=%23FAFAFA"/> </a>
+  <img src="https://img.shields.io/badge/angular-%23212121?style=for-the badge&logo=angular&logoColor=%23DD1100&labelColor=%23FAFAFA&link=https%3A%2F%2Fangular.dev%2F"/>
   <img src="https://img.shields.io/badge/html5-%23212121?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23FAFAFA"/>
 </div>
 
