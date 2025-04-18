@@ -23,12 +23,7 @@ Here are some ideas to get you started:
 </p>
 <html>
   <head>
-    <style>
-    mark { 
-      background-color: yellow;
-      color: black;
-    }
-    </style>
+    
   </head>
   <body>
     <h3 align="left">Languages and Tools:</h3>
