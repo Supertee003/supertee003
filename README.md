@@ -2,18 +2,23 @@
 ## Hi there 👋
 
 
-**Supertee003/supertee003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nevertheless**, we shall comprehend and implement the prescribed protocols of the standardized format.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently focusing on **Clients in Prison and Probation Services**
-- 🌱 I’m currently learning **CVE**
-- 👯 I’m looking to collaborate on **Inner Source**
-- 🤔 I’m looking for help with **Raise->Fix->**Deploy Incent****
-- 💬 Ask me about **UX**
-- 📫 How to reach me: ..
-- 😄 Pronouns: ...
-- ⚡ Fun fact: **Aspire to be the DJ**
+  🔭 I’m currently focusing on
+- **Clients in Prison and Probation Services** ♻️
+  🌱 I’m currently learning
+- **CVE** 🔸🔸🔸🔸
+  👯 I’m looking to collaborate on
+- **Inner Source** 🔸🔸
+  🤔 I’m looking for help with
+- **Raise->Fix-> **Deploy Incent**** 🔸🔸🔸
+  💬 Ask me about
+- **UX** 🔸
+  📫 How to reach me: ..
+  😄 Pronouns: ...
+  ⚡ Fun fact: **Aspire to be the DJ**
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -21,8 +26,7 @@ Here are some ideas to get you started:
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
   </p>
 
-<h3 align="left">Languages:</h3>
-  <p align="left">
+<h3 align="left">Forms:</h3>
   
   <h4>&Framework</h4>
     <div display="flex">
@@ -112,4 +116,10 @@ Here are some ideas to get you started:
       <a href="https://www.dedoimedo.com/computers/www.dedoimedo.com-apache-web-server-lm.pdf" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/apache-%23728E9B?style=for-the-badge&logo=apache&logoColor=%23D22128&labelColor=%23E8E8E8"/> </a>
     </div> 
-</p>
+    <div display="flex">
+      | <a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer">          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> | <a href="https://https://www.jenkins.io/doc/book/security/managing-security/" target="_blank" rel="noreferrer">          <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> | <a href="https://edu.anarcho-copy.org/GNU%20Linux%20-%20Unix-Like/DevOps/Learn%20Kubernetes%20Security.pdf" target="_blank" rel="noreferrer">         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> |   |   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|
+|                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                  |   |   |
+|                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                  |   |   |
+|                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                            |                                                                                                                                                                                                                                                                                  |   |   |
+    </div>
