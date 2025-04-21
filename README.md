@@ -2,9 +2,9 @@
 ## Hi there 👋
 
 
-**Nevertheless**, we shall comprehend and implement the prescribed protocols of the standardized format.
+**Nevertheless**, shall comprehend and implement the prescribed protocols of the standardized format.
 
-Here are some ideas to get you started:
+Here are some ideas to help you plan:
 
   🔭 I’m currently focusing on
 - **Clients in Prison and Probation Services** ♻️
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
   </p>
 
-<h3 align="left">Forms:</h3>
+<h3 align="left">form pattern:</h3>
   
   <h4>&Framework</h4>
     <div display="flex">
@@ -37,10 +37,7 @@ Here are some ideas to get you started:
       <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/nodedotjs-%232B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23FFFFFF" alt="nodejs"/> </a>
     </div>
-| FirstName     | LastName      | City  |
-| :------------ |   :---:       | --------: |
-| `John`        | Test1         | `NewYork`   |
-| `Bob`         | Test2         | `Los Angeles`   |
+
   <h2>Programimg;</h2>
     <div display="flex">
       <a href="https://chromium.googlesource.com/chromium/src/+/HEAD/docs/security/rule-of-2.md" target="_blank" rel="noreferrer">
@@ -61,17 +58,54 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000" alt="javascript"/> </a>
     </div>
 
-  <h3>Tools:</h3>
+  <h3>tools:</h3>
   <h2>💨Chaining</h2>
     <div display="flex">
-      <a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
+      ![input topic]
+**|** <h2>><a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-      <a href="https://https://www.jenkins.io/doc/book/security/managing-security/" target="_blank" rel="noreferrer"> 
+**|** <a href="https://https://www.jenkins.io/doc/book/security/managing-security/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-      <a href="https://edu.anarcho-copy.org/GNU%20Linux%20-%20Unix-Like/DevOps/Learn%20Kubernetes%20Security.pdf" target="_blank" rel="noreferrer">
+**|** </h2><a href="https://edu.anarcho-copy.org/GNU%20Linux%20-%20Unix-Like/DevOps/Learn%20Kubernetes%20Security.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+      <br> ![input source]
+**|:-** <a target="_self" rel="alternate">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
+      </a> <br>
+**|:-** <a target="_self" rel="alternate"> 
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
+      </a>
     </div>
-  
+
+<table style="width:30%">
+  <tr>
+    <th><a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="10" height="5"/></a></th>
+    <th><a href="https://https://www.jenkins.io/doc/book/security/managing-security/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a></th>
+    <th><a href="https://edu.anarcho-copy.org/GNU%20Linux%20-%20Unix-Like/DevOps/Learn%20Kubernetes%20Security.pdf" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a></th>
+  </tr>
+  <tr>
+    <td><a target="_self" rel="alternate">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
+      </a></td>
+    <td><a target="_self" rel="alternate"> 
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
+      </a></td>
+    <td><a target="_self" rel="alternate"> 
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
+      </a></td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
+
+    
   <h2>❄️Freezing</h2>
     <div display="flex">
       <a href="https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf" target="_blank" rel="noreferrer"> 
