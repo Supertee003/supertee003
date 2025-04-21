@@ -15,50 +15,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **Aspire to be the DJ**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&show_icons=truer&rank_icon=github&theme=onedark)
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supertee003&hide_progress=true&theme=onedark) -->
-
 <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://stackoverflow.com/users/30247391" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
   </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
   <p align="left">
   
-  <h4>Framework:</h4>
+  <h4>&Framework</h4>
     <div display="flex">
       <a href="https://docs.djangoproject.com/en/5.2/topics/security/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/django-%231A1928?style=for-the-badge&logo=django&logoColor=%23FFFFFF&labelColor=%23092E20"/> </a>
+        <img src="https://img.shields.io/badge/django-%231A1928?style=for-the-badge&logo=django&logoColor=%23FFFFFF&labelColor=%23092E20" alt="django"/> </a>
       <a href="https://laravel.com/docs/5.1/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/laravel-%23252D37?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=%23FFFFFF"/> </a>
+        <img src="https://img.shields.io/badge/laravel-%23252D37?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=%23FFFFFF" alt="laravel" </a>
       <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/nodedotjs-%232B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23FFFFFF"/> </a>
+        <img src="https://img.shields.io/badge/nodedotjs-%232B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23FFFFFF" alt="nodejs"/> </a>
     </div>
   
-  <h2>Programimg</h2>
+  <h2>Programimg;</h2>
     <div display="flex">
       <a href="https://chromium.googlesource.com/chromium/src/+/HEAD/docs/security/rule-of-2.md" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/cplusplus-%23A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=%23F3F5F5&labelColor=%235881D8"/> </a>
+        <img src="https://img.shields.io/badge/cplusplus-%23A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=%23F3F5F5&labelColor=%235881D8" alt="cplusplus"/> </a>
       <a href="https://owasp.org/www-project-pytm/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/python-%23ECD53F?style=for-the-badge&logo=python&logoColor=%23E8E8E8&labelColor=%233776AB"/> </a
+        <img src="https://img.shields.io/badge/python-%23ECD53F?style=for-the-badge&logo=python&logoColor=%23E8E8E8&labelColor=%233776AB" alt="python"/> </a
       <a href="https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/php-%236C78AF?style=for-the-badge&logo=php&logoColor=%234A5F88&labelColor=%23FAFAFA"/> </a>
+        <img src="https://img.shields.io/badge/php-%236C78AF?style=for-the-badge&logo=php&logoColor=%234A5F88&labelColor=%23FAFAFA" alt="php"/> </a>
       <a href="https://perldoc.perl.org/perlsec" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/perl-%230073A1?style=for-the-badge&logo=perl&logoColor=%23000000&labelColor=%23FFFFFF"/> </a>
+        <img src="https://img.shields.io/badge/perl-%230073A1?style=for-the-badge&logo=perl&logoColor=%23000000&labelColor=%23FFFFFF" alt="perl"/> </a>
       <a href="https://cheatsheetseries.owasp.org/cheatsheets/Ruby_on_Rails_Cheat_Sheet.html" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/ruby-%23000000?style=for-the-badge&logo=ruby&logoColor=%23CC342D&labelColor=%23FFFFFF"/> </a>
+        <img src="https://img.shields.io/badge/ruby-%23000000?style=for-the-badge&logo=ruby&logoColor=%23CC342D&labelColor=%23FFFFFF" alt="ruby"/> </a>
       <a href="https://perldoc.perl.org/perlsec" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=%23000000&labelColor=%23FFFFFF"/> </a>
+        <img src="https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=%23000000&labelColor=%23FFFFFF" alt="rust"/> </a>
       <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/gnubash-%23000000?style=for-the-badge&logo=gnubash&logoColor=%23000000&labelColor=%23FFFFFF"/> </a>
+        <img src="https://img.shields.io/badge/gnubash-%23000000?style=for-the-badge&logo=gnubash&logoColor=%23000000&labelColor=%23FFFFFF" alt="bash"/> </a>
       <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000"/> </a>
+        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000" alt="javascript"/> </a>
     </div>
-  
-  <h2>Container & Orchestration</h2>
+
+  <h3>Tools:</h3>
+  <h2>💨Chaining</h2>
     <div display="flex">
       <a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -68,7 +65,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
     </div>
   
-  <h2>Cloud Service</h2>
+  <h2>❄️Freezing</h2>
     <div display="flex">
       <a href="https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -76,7 +73,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </div>
   
-  <h2>Tool & Test</h2>
+  <h2>⏰Testing</h2>
     <div display="flex">
       <a href="https://indico.cern.ch/event/724719/contributions/2981043/attachments/1638054/2754736/Git_tutorial.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -86,7 +83,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     </div>
   
-  <h2>Visualization & Monitoring</h2>
+  <h2>📻Monitoring</h2>
     <div display="flex">
       <a href="https://www.cisco.com/c/en/us/support/docs/wireless/policy-suite-mobile/214788-introduction-of-grafana-and-its-usage.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
@@ -94,7 +91,7 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/splunk-%2381C459?style=for-the-badge&logo=splunk&logoColor=%23FFFFFF&labelColor=%23403C3D"/> </a>
     </div>
   
-  <h2>Database</h2>
+  <h2>⛳Blessing</h2>
     <div display="flex">
       <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
@@ -108,7 +105,7 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
     </div>
   
-  <h2>WebServer & Proxy</h2>
+  <h2>⚓Clicking</h2>
     <div display="flex">
       <a href="https://altair.pw/pub/doc/nginx/Mastering%20NGINX/Mastering%20NGINX.pdf" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
