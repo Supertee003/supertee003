@@ -36,14 +36,12 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/laravel-%23252D37?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=%23FFFFFF" alt="laravel" </a>
       <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/nodedotjs-%232B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23FFFFFF" alt="nodejs"/> </a>
-        | <a href="https://docs.djangoproject.com/en/5.2/topics/security/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/django-%231A1928?style=for-the-badge&logo=django&logoColor=%23FFFFFF&labelColor=%23092E20" alt="django"/> </a> | <a href="https://laravel.com/docs/5.1/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/laravel-%23252D37?style=for-the-badge&logo=laravel&logoColor=%23FF2D20&labelColor=%23FFFFFF" alt="laravel" </a> |  <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/nodedotjs-%232B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23FFFFFF" alt="nodejs"/> </a> |
-        |:----|:----:|----:|
-        | ข้อมูล | ข้อมูล | ข้อมูล |
+        | FirstName     | LastName      | City  |
+        | :------------ |   :---:       | --------: |
+        | `John`        | Test1         | `NewYork`   |
+        | `Bob`         | Test2         | `Los Angeles`   |
     </div>
-  
+        
   <h2>Programimg;</h2>
     <div display="flex">
       <a href="https://chromium.googlesource.com/chromium/src/+/HEAD/docs/security/rule-of-2.md" target="_blank" rel="noreferrer">
