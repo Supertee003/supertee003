@@ -6,19 +6,19 @@
 
 Here are some ideas to help you plan:
 
-  🔭 I’m currently focusing on
-- **Clients in Prison and Probation Services** ♻️
-  🌱 I’m currently learning
-- **CVE** 🔸🔸🔸🔸
-  👯 I’m looking to collaborate on
-- **Inner Source** 🔸🔸
-  🤔 I’m looking for help with
-- **Raise->Fix-> **Deploy Incent**** 🔸🔸🔸
-  💬 Ask me about
-- **UX** 🔸
-  📫 How to reach me: ..
-  😄 Pronouns: ...
-  ⚡ Fun fact: **Aspire to be the DJ**
+- 🔭 I’m currently focusing on
+> **Clients in Prison and Probation Services** 
+- 🌱 I’m currently learning
+> **CVE** 🔸🔸🔸🔸
+- 👯 I’m looking to collaborate on
+> **Inner Source** 🔸🔸
+- 🤔 I’m looking for help with
+> **Raise->Fix-> **Deploy Incent**** 🔸🔸🔸
+- 💬 Ask me about
+> **UX** 🔸
+- 📫 How to reach me: ..
+- 😄 Pronouns: ...
+- ⚡ Fun fact: **Aspire to be the DJ**
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -26,7 +26,7 @@ Here are some ideas to help you plan:
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
   </p>
 
-<h3 align="left">form pattern:</h3>
+<h3 align="left">ฺBase:</h3>
   
   <h4>&Framework</h4>
     <div display="flex">
@@ -59,7 +59,7 @@ Here are some ideas to help you plan:
     </div>
 
   <h3>tools:</h3>
-  <h2>🚥shaking</h2>
+  <h2>shaking🚥</h2>
     <div display="flex">
       
 <table>
@@ -67,7 +67,7 @@ Here are some ideas to help you plan:
     I think it makes the process easier.
   </caption>
   <thead>
-    <tr>![list]
+    <tr>
       <th scope="col"><a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
       </th>
@@ -78,16 +78,15 @@ Here are some ideas to help you plan:
     </tr>
   </thead>
   <tbody>
-    <tr>![mix]
+    <tr>
       <th scope="row">C</th>
       <th scope="row">Java</th>
       <th scope="row">GO</th>
     </tr>
   </tbody>
   <tfoot>
-    <tr>![flow]
-      <th scope="row" colspan="2">Docker+Jenkins+K8S</th>
-      <td scope="row">CI/CD Pipeline Flow</td>
+    <tr>
+      <th scope="row" colspan="3">Docker+Jenkins+K8S</th>
     </tr>
   </tfoot>
 </table>
@@ -95,7 +94,7 @@ Here are some ideas to help you plan:
     
   <h2>❄️sculpting</h2>
     <div display="flex">
-      I think it is necessary to gather more details.
+      I think it is necessary to gather more details. <br>
       <a href="https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
       <a href="https://norma.ncirl.ie/7426/1/manoharbabu.pdf" target="_blank" rel="noreferrer">
@@ -104,10 +103,10 @@ Here are some ideas to help you plan:
   
   <h2>🎏keeping</h2>
     <div display="flex">
-      I think I should start at this point.
+      I think I should start at this point. <br>
       <a href="https://indico.cern.ch/event/724719/contributions/2981043/attachments/1638054/2754736/Git_tutorial.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="https://voyager.postman.com/pdf/2023-state-of-the-api-report-postman.pdf" target="_blank" rel="noreferrer">
+      <a href="https://voyager.postman.com/pdf/2023-state-of-the-api-report-postman.pdf" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
       <a href="https://linux-training.be/linuxsec.pdf" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
@@ -116,16 +115,16 @@ Here are some ideas to help you plan:
   
   <h2>🎿tuning</h2>
     <div display="flex">
-      I think it's helpful to be aware and visible.
+      I think it's helpful to be aware and visible. <br>
       <a href="https://www.cisco.com/c/en/us/support/docs/wireless/policy-suite-mobile/214788-introduction-of-grafana-and-its-usage.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
       <a href="https://github.com/subbukandula/Splunk/blob/master/Splunk%206.X%20Fundamentals%20Part%201%20(eLearning).pdf" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/splunk-%2381C459?style=for-the-badge&logo=splunk&logoColor=%23FFFFFF&labelColor=%23403C3D"/> </a>
+        <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21~bgwhite.svg" alt="splunk" width="40" height="40"/>/> </a>
     </div>
   
   <h2>⛳blessing</h2>
     <div display="flex">
-      I think I gave good intentions.
+      I think I gave good intentions. <br>
       <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -138,11 +137,11 @@ Here are some ideas to help you plan:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
     </div>
   
-  <h2>⚓switching</h2>
+  <h2>switching⚓</h2>
     <div display="flex">
-      I think the path goes another way.
+      I think the path goes another way. <br>
       <a href="https://altair.pw/pub/doc/nginx/Mastering%20NGINX/Mastering%20NGINX.pdf" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
       <a href="https://www.dedoimedo.com/computers/www.dedoimedo.com-apache-web-server-lm.pdf" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/apache-%23728E9B?style=for-the-badge&logo=apache&logoColor=%23D22128&labelColor=%23E8E8E8"/> </a>
+        <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="40" height="40"/> </a>
     </div> 
