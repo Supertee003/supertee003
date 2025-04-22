@@ -19,7 +19,7 @@ Here are some ideas to help you plan:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **Aspire to be someone**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me:</h3>
   <p align="left">
     <a href="https://stackoverflow.com/users/30247391" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
@@ -54,10 +54,10 @@ Here are some ideas to help you plan:
       <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/gnubash-%23000000?style=for-the-badge&logo=gnubash&logoColor=%23000000&labelColor=%23FFFFFF" alt="bash"/> </a>
       <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000" alt="javascript"/> </a>
+        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%2300000" alt="javascript"/> </a>
     </div>
 
-  <h3>tools:</h3>
+  <h3>ฺtools:</h3>
   <h2>shaking🚥</h2>
     <div display="flex">
       
