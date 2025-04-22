@@ -9,16 +9,15 @@ Here are some ideas to help you plan:
 - 🔭 I’m currently focusing on
 > **Clients in Prison and Probation Services** 
 - 🌱 I’m currently learning
-> **CVE** 🔸🔸🔸🔸
+> **CVE**, **CTF***
 - 👯 I’m looking to collaborate on
-> **Inner Source** 🔸🔸
+> **Inner Source**
 - 🤔 I’m looking for help with
-> **Raise->Fix-> **Deploy Incent**** 🔸🔸🔸
-- 💬 Ask me about
-> **UX** 🔸
+> **Raise->Fix-> **Deploy Mindset****
+- 💬 Ask me about: **UX** 
 - 📫 How to reach me: ..
 - 😄 Pronouns: ...
-- ⚡ Fun fact: **Aspire to be the DJ**
+- ⚡ Fun fact: **Aspire to be someone**
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -119,7 +118,7 @@ Here are some ideas to help you plan:
       <a href="https://www.cisco.com/c/en/us/support/docs/wireless/policy-suite-mobile/214788-introduction-of-grafana-and-its-usage.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
       <a href="https://github.com/subbukandula/Splunk/blob/master/Splunk%206.X%20Fundamentals%20Part%201%20(eLearning).pdf" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21~bgwhite.svg" alt="splunk" width="40" height="40"/>/> </a>
+        <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" width="40" height="40"/> </a>
     </div>
   
   <h2>⛳blessing</h2>
