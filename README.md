@@ -54,7 +54,7 @@ Here are some ideas to help you plan:
       <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/gnubash-%23000000?style=for-the-badge&logo=gnubash&logoColor=%23000000&labelColor=%23FFFFFF" alt="bash"/> </a>
       <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%2300000" alt="javascript"/> </a>
+        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000" alt="javascript"/> </a>
     </div>
 
   <h3>ฺtools:</h3>
