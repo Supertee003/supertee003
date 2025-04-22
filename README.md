@@ -59,81 +59,73 @@ Here are some ideas to help you plan:
     </div>
 
   <h3>tools:</h3>
-  <h2>💨Chaining</h2>
+  <h2>🚥shaking</h2>
     <div display="flex">
-      ![input topic]
-**|** <h2>><a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-**|** <a href="https://https://www.jenkins.io/doc/book/security/managing-security/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-**|** </h2><a href="https://edu.anarcho-copy.org/GNU%20Linux%20-%20Unix-Like/DevOps/Learn%20Kubernetes%20Security.pdf" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-      <br> ![input source]
-**|:-** <a target="_self" rel="alternate">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
-      </a> <br>
-**|:-** <a target="_self" rel="alternate"> 
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
-      </a>
-    </div>
-
-<table style="width:30%">
-  <tr>
-    <th><a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="10" height="5"/></a></th>
-    <th><a href="https://https://www.jenkins.io/doc/book/security/managing-security/" target="_blank" rel="noreferrer"> 
+      
+<table>
+  <caption>
+    I think it makes the process easier.
+  </caption>
+  <thead>
+    <tr>![list]
+      <th scope="col"><a href="https://5gcroco.eu/images/templates/rsvario/images/5GCroCo_DockerSecurityBasics_Training.pdf" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+      </th>
+      <th scope="col"><a href="https://https://www.jenkins.io/doc/book/security/managing-security/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a></th>
-    <th><a href="https://edu.anarcho-copy.org/GNU%20Linux%20-%20Unix-Like/DevOps/Learn%20Kubernetes%20Security.pdf" target="_blank" rel="noreferrer">
+      <th scope="col"><a href="https://edu.anarcho-copy.org/GNU%20Linux%20-%20Unix-Like/DevOps/Learn%20Kubernetes%20Security.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a></th>
-  </tr>
-  <tr>
-    <td><a target="_self" rel="alternate">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
-      </a></td>
-    <td><a target="_self" rel="alternate"> 
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
-      </a></td>
-    <td><a target="_self" rel="alternate"> 
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZxZHpvMmxrc3l3OGRkOHpodnFxdzIwbWU1cDJtZDF5cmpyMXZwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HeDcXCCTHGtw4J9noa/giphy.gif">
-      </a></td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>![mix]
+      <th scope="row">C</th>
+      <th scope="row">Java</th>
+      <th scope="row">GO</th>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>![flow]
+      <th scope="row" colspan="2">Docker+Jenkins+K8S</th>
+      <td scope="row">CI/CD Pipeline Flow</td>
+    </tr>
+  </tfoot>
 </table>
-
-
+    </div>
     
-  <h2>❄️Freezing</h2>
+  <h2>❄️sculpting</h2>
     <div display="flex">
+      I think it is necessary to gather more details.
       <a href="https://docs.aws.amazon.com/pdfs/whitepapers/latest/aws-overview/aws-overview.pdf" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
       <a href="https://norma.ncirl.ie/7426/1/manoharbabu.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </div>
   
-  <h2>⏰Testing</h2>
+  <h2>🎏keeping</h2>
     <div display="flex">
+      I think I should start at this point.
       <a href="https://indico.cern.ch/event/724719/contributions/2981043/attachments/1638054/2754736/Git_tutorial.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
       <a href="https://voyager.postman.com/pdf/2023-state-of-the-api-report-postman.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
       <a href="https://linux-training.be/linuxsec.pdf" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+      <p>Swagger</p>
     </div>
   
-  <h2>📻Monitoring</h2>
+  <h2>🎿tuning</h2>
     <div display="flex">
+      I think it's helpful to be aware and visible.
       <a href="https://www.cisco.com/c/en/us/support/docs/wireless/policy-suite-mobile/214788-introduction-of-grafana-and-its-usage.pdf" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
       <a href="https://github.com/subbukandula/Splunk/blob/master/Splunk%206.X%20Fundamentals%20Part%201%20(eLearning).pdf" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/splunk-%2381C459?style=for-the-badge&logo=splunk&logoColor=%23FFFFFF&labelColor=%23403C3D"/> </a>
     </div>
   
-  <h2>⛳Blessing</h2>
+  <h2>⛳blessing</h2>
     <div display="flex">
+      I think I gave good intentions.
       <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -146,8 +138,9 @@ Here are some ideas to help you plan:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
     </div>
   
-  <h2>⚓Clicking</h2>
+  <h2>⚓switching</h2>
     <div display="flex">
+      I think the path goes another way.
       <a href="https://altair.pw/pub/doc/nginx/Mastering%20NGINX/Mastering%20NGINX.pdf" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
       <a href="https://www.dedoimedo.com/computers/www.dedoimedo.com-apache-web-server-lm.pdf" target="_blank" rel="noreferrer">
