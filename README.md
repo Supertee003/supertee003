@@ -7,25 +7,21 @@
 Here are some ideas to help you plan:
 
 - 🔭 I’m currently focusing on 
-```
-Clients in Prison and Probation Services
-```
+  _Clients in Prison and Probation Services
+  
 - 🌱 I’m currently learning 
-```
-CVE, CTF
-```
+  _CVE, CTF
+  
 - 👯 I’m looking to collaborate on 
-```
-Inner Source
-```
+  _Inner Source
+
 - 🤔 I’m looking for help with 
-```
-Raise->Fix-> ***Deploy Mindset***
-```
+  _Raise->Fix-> ***Deploy Mindset***
+  
 - 💬 Ask me about: **UX** 
 - ⚡ Fun fact: **Aspire to be mannaz**
 
-<h3 align="left">About me:</h3>
+<h3 align="left">At Me</h3>
   <p align="left">
     <a href="https://stackoverflow.com/users/30247391" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
@@ -62,8 +58,14 @@ Raise->Fix-> ***Deploy Mindset***
       <a href="https://cheatsheetseries.owasp.org/cheatsheets/Java_Security_Cheat_Sheet.html" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000" alt="javascript"/> </a>
     </div>
+    
+> [!NOTE]
+> Useful information that users should practice and develop while scanning content.
 
-  <h3>tools:</h3>
+Here topic[^1].
+[^1]: My reference.
+
+  <h3>Tools:</h3>
   <h2>🚥shaking</h2>
     <div display="flex">   
       <table class="center">
@@ -153,7 +155,7 @@ Raise->Fix-> ***Deploy Mindset***
             </th>
             <th scope="col">
               <a href="https://swagger.io/docs/specification/v2_0/authentication/authentication/" target="-blank" rel="swagger">
-              <img srv="https://img.shields.io/badge/swagger-%2385EA2D?style=for-the-badge&logo=swagger&labelColor=%23006" alt="swagger" width="40" height="40"/> </a>
+              <img srv="https://img.shields.io/badge/swagger-%2385EA2D?style=for-the-badge&logo=swagger&labelColor=%23060" alt="swagger" width="40" height="40"/> </a>
             </th>
           </tr>
         </thead>
