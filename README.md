@@ -22,7 +22,9 @@ Here are some ideas to help you plan:
 - 💬 Ask me about: **UX** 
 - ⚡ Fun fact: **Aspire to be mannaz**
 
-<h3 align="left">At Me:</h3>
+<h4 align="left">
+  <ins>At Me:</ins>
+</h4>
   <p align="left">
     <a href="https://stackoverflow.com/users/30247391" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30247391" height="30" width="40" /> </a>
@@ -58,8 +60,8 @@ Here are some ideas to help you plan:
         <img src="https://img.shields.io/badge/gnubash-%23000000?style=for-the-badge&logo=gnubash&logoColor=%23000000&labelColor=%23FFFFFF" alt="bash"/> </a>
       <a href="https://cheatsheetseries.owasp.org/cheatsheets/Java_Security_Cheat_Sheet.html" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000" alt="javascript"/> </a>
-    </div>
-    <br>
+    </div> <br>
+    
 > [!NOTE]
 > Useful information that users should practice and develop while scanning content.
 
