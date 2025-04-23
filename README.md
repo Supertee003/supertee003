@@ -59,8 +59,8 @@ Raise->Fix-> ***Deploy Mindset***
         <img src="https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=%23000000&labelColor=%23FFFFFF" alt="rust"/> </a>
       <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/gnubash-%23000000?style=for-the-badge&logo=gnubash&logoColor=%23000000&labelColor=%23FFFFFF" alt="bash"/> </a>
-      <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000000" alt="javascript"/> </a>
+      <a href="https://cheatsheetseries.owasp.org/cheatsheets/Java_Security_Cheat_Sheet.html" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000" alt="javascript"/> </a>
     </div>
 
   <h3>tools:</h3>
@@ -86,14 +86,14 @@ Raise->Fix-> ***Deploy Mindset***
         </thead>
         <tbody>
           <tr>
-            <th scope="row">C</th>
-            <th scope="row">Java</th>
-            <th scope="row">GO</th>
+            <th scope="row"></th>
+            <th scope="row"></th>
+            <th scope="row"></th>
           </tr>
         </tbody>
         <tfoot>
           <tr>
-            <th scope="row" colspan="3">Docker+Jenkins+K8S</th>
+            <th scope="row" colspan="3"></th>
           </tr>
         </tfoot>
       </table>
@@ -119,14 +119,14 @@ Raise->Fix-> ***Deploy Mindset***
         </thead> 
         <tbody>
           <tr>
-            <th scope="row">C</th>
-            <th scope="row">Java</th>
-            <th scope="row">GO</th>
+            <th scope="row"></th>
+            <th scope="row"></th>
+            <th scope="row"></th>
           </tr>
         </tbody>
         <tfoot>
           <tr>
-            <th scope="row" colspan="3">Docker+Jenkins+K8S</th>
+            <th scope="row" colspan="3"></th>
           </tr>
         </tfoot>
       </table>
