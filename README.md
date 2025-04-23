@@ -6,19 +6,19 @@
 
 Here are some ideas to help you plan:
 
-- 🔭 I’m currently focusing on \/
+- 🔭 I’m currently focusing on 
 ```
 Clients in Prison and Probation Services
 ```
-- 🌱 I’m currently learning \/
+- 🌱 I’m currently learning 
 ```
 CVE, CTF
 ```
-- 👯 I’m looking to collaborate on \/
+- 👯 I’m looking to collaborate on 
 ```
 Inner Source
 ```
-- 🤔 I’m looking for help with \/
+- 🤔 I’m looking for help with 
 ```
 Raise->Fix-> ***Deploy Mindset***
 ```
@@ -84,7 +84,7 @@ Raise->Fix-> ***Deploy Mindset***
               <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a></th>
           </tr>
         </thead>
-        <tbody>
+        <!--<tbody>
           <tr>
             <th scope="row"></th>
             <th scope="row"></th>
@@ -95,7 +95,7 @@ Raise->Fix-> ***Deploy Mindset***
           <tr>
             <th scope="row" colspan="3"></th>
           </tr>
-        </tfoot>
+        </tfoot>-->
       </table>
     </div>
     
@@ -117,7 +117,7 @@ Raise->Fix-> ***Deploy Mindset***
             </th>
           </tr>
         </thead> 
-        <tbody>
+        <!--<tbody>
           <tr>
             <th scope="row"></th>
             <th scope="row"></th>
@@ -128,7 +128,7 @@ Raise->Fix-> ***Deploy Mindset***
           <tr>
             <th scope="row" colspan="3"></th>
           </tr>
-        </tfoot>
+        </tfoot>-->
       </table>
     </div>
   
@@ -153,7 +153,7 @@ Raise->Fix-> ***Deploy Mindset***
             </th>
             <th scope="col">
               <a href="https://swagger.io/docs/specification/v2_0/authentication/authentication/" target="-blank" rel="swagger">
-              <img srv="https://img.shields.io/badge/swagger-%2385EA2D?style=for-the-badge&logo=swagger&labelColor=%23006600" alt="swagger" width="40" height="40"/> </a>
+              <img srv="https://img.shields.io/badge/swagger-%2385EA2D?style=for-the-badge&logo=swagger&labelColor=%23006" alt="swagger" width="40" height="40"/> </a>
             </th>
           </tr>
         </thead>
