@@ -41,7 +41,6 @@ Here are some ideas to help you plan:
       <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/nodedotjs-%232B2B2B?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23FFFFFF" alt="nodejs"/> </a>
     </div>
-
   <h2>Programimg;</h2>
     <div display="flex">
       <a href="https://chromium.googlesource.com/chromium/src/+/HEAD/docs/security/rule-of-2.md" target="_blank" rel="noreferrer">
@@ -56,15 +55,16 @@ Here are some ideas to help you plan:
         <img src="https://img.shields.io/badge/ruby-%23000000?style=for-the-badge&logo=ruby&logoColor=%23CC342D&labelColor=%23FFFFFF" alt="ruby"/> </a>
       <a href="https://perldoc.perl.org/perlsec" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=%23000000&labelColor=%23FFFFFF" alt="rust"/> </a>
-      <a href="https://www.gnu.org/software/bash/manual/bash.html#Security-Considerations" target="_blank" rel="noreferrer">
+      <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Cybersecurity_Ops_with_bash_Attack.pdf" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/gnubash-%23000000?style=for-the-badge&logo=gnubash&logoColor=%23000000&labelColor=%23FFFFFF" alt="bash"/> </a>
       <a href="https://cheatsheetseries.owasp.org/cheatsheets/Java_Security_Cheat_Sheet.html" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/javascript-%23999999?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000" alt="javascript"/> </a>
+      <a href="https://nimprogrammingbook.com/book/nimprogramming_base16.pdf" target="_blank" rel="noreferrer"/> 
+        <img src="https://img.shields.io/badge/nim-%23FFE953?style=for-the-badge&logo=nim&labelColor=%23000000" alt="nim"/> </a>
     </div> <br>
     
 > [!NOTE]
 > Useful information that users should practice and develop while scanning content.
-
 
   <h3>Tools:</h3>
   <h2>🚥shaking</h2>
@@ -101,7 +101,6 @@ Here are some ideas to help you plan:
         </tfoot>-->
       </table>
     </div>
-    
   <h2>❄️sculpting</h2>
     <div display="flex">   
       <table class="center">
@@ -134,7 +133,6 @@ Here are some ideas to help you plan:
         </tfoot>-->
       </table>
     </div>
-  
   <h2>🎏keeping</h2>
     <div display="flex">
       <table class="center">
@@ -144,25 +142,24 @@ Here are some ideas to help you plan:
         <thead>
           <tr>
             <th scope="col">
-              <a href="https://indico.cern.ch/event/724719/contributions/2981043/attachments/1638054/2754736/Git_tutorial.pdf" target="_blank" rel="noreferrer">
-              <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+              <a href="https://github.com/DingyShark/BurpSuiteCertifiedPractitioner" target="_blank" rel="noreferrer">
+              <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="burpsuite" width="40" height="40"/> </a>
             </th>
             <th scope="col">
               <a href="https://voyager.postman.com/pdf/2023-state-of-the-api-report-postman.pdf" target="_blank" rel="noreferrer"> 
               <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
             <th scope="col">
-              <a href="https://linux-training.be/linuxsec.pdf" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+              <a href="https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_snort.jpg" alt="snort" width="40" height="40"/> </a>
             </th>
             <th scope="col">
               <a href="https://swagger.io/docs/specification/v2_0/authentication/authentication/" target="-blank" rel="swagger">
-              <img srv="https://img.shields.io/badge/swagger-%2385EA2D?style=for-the-badge&logo=swagger&labelColor=%23006600" alt="swagger" width="40" height="40"/> </a>
+              <img srv="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png alt="swagger" width="40" height="40"/> </a>
             </th>
           </tr>
         </thead>
       </table>
     </div>
-  
   <h2>🎿tuning</h2>
     <div display="flex">
       <table class="center">
@@ -177,13 +174,20 @@ Here are some ideas to help you plan:
             </th>
             <th scope="col">
               <a href="https://github.com/subbukandula/Splunk/blob/master/Splunk%206.X%20Fundamentals%20Part%201%20(eLearning).pdf" target="_blank" rel="noreferrer">
-              <img src="https://www.vectorlogo.zone/logos/splunk/splunk-ar21.svg" alt="splunk" width="40" height="40"/> </a>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Splunk_logo.svg" alt="splunk" width="40" height="40"/> </a>
+            </th>
+            <th>
+              <a href="https://book.blueteamguides.com/xdr/wazuh" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Wazuh-2022-Logo.svg" alt="" width="40" height="40"/> </a>
+            </th>
+            <th>
+              <a href="" target="" rel="">
+                <img src="" alt="" width="40" height="40"/> </a>
             </th>
           </tr>
         </thead>
       </table>
     </div>
-  
   <h2>⛳blessing</h2>
     <div display="flex">
       <table class="center">
@@ -212,11 +216,14 @@ Here are some ideas to help you plan:
               <a href="https://redis.io" target="_blank" rel="noreferrer">
               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
             </th>
+            <th scope="col">
+              <a href="https://k0d.cc/storage/books/Databases/Postgresql/PostgreSQL%20Up%20and%20Running,%202nd%20Edition.pdf" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="redis" width="40" height="40"/> </a>
+            </th>
           </tr>
         </thead>
       </table>
     </div>
-  
   <h2>⚓switching</h2>
     <div display="flex">
       <table class="center">
@@ -233,7 +240,27 @@ Here are some ideas to help you plan:
               <a href="https://www.dedoimedo.com/computers/www.dedoimedo.com-apache-web-server-lm.pdf" target="_blank" rel="noreferrer">
               <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="40" height="40"/> </a>
             </tr>
+            <th>
+              <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Metasploit%20Penetration%20Testing%20Cookbook.pdf" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="Metasploit Framework" width="40" height="40"/> </a>
+            </th>
           </tr>
         </thrad>
       </table>
     </div> 
+    <h2>📋Broker</h2
+      <div display="flex">
+        <table class="center">
+          <caption>
+            <sup>This refers to data.</sup>
+          </caption>
+           <thead>
+            <tr>
+              <th>
+                <a href="https://api.pageplace.de/preview/DT0400.9781849516518_A24191023/preview-9781849516518_A24191023.pdf" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/> </a>
+              </th>
+            </tr>
+           </thead>
+        </table>
+      </div>
