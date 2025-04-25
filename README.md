@@ -115,7 +115,7 @@ Here are some ideas to help you plan:
             </th>
             <th scope="col">
               <a href="https://norma.ncirl.ie/7426/1/manoharbabu.pdf" target="_blank" rel="noreferrer">
-              <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Firebase.svg" alt="firebase" width="40" height="40"/> </a>
             </th>
           </tr>
         </thead> 
@@ -150,11 +150,11 @@ Here are some ideas to help you plan:
               <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
             <th scope="col">
               <a href="https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf" target="_blank" rel="noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_snort.jpg" alt="snort" width="40" height="40"/> </a>
+              <img src="" alt="" width="40" height="40"/> </a>
             </th>
             <th scope="col">
               <a href="https://swagger.io/docs/specification/v2_0/authentication/authentication/" target="-blank" rel="swagger">
-              <img srv="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png alt="swagger" width="40" height="40"/> </a>
+              <img srv="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cib-swagger_%28CoreUI_Icons_v1.0.0%29.svg" alt="swagger" width="40" height="40"/> </a>
             </th>
           </tr>
         </thead>
@@ -176,14 +176,14 @@ Here are some ideas to help you plan:
               <a href="https://github.com/subbukandula/Splunk/blob/master/Splunk%206.X%20Fundamentals%20Part%201%20(eLearning).pdf" target="_blank" rel="noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Splunk_logo.svg" alt="splunk" width="40" height="40"/> </a>
             </th>
-            <th>
+            <th scope="col">
               <a href="https://book.blueteamguides.com/xdr/wazuh" target="_blank" rel="noreferrer">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Wazuh-2022-Logo.svg" alt="" width="40" height="40"/> </a>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Wazuh-2022-Logo.svg" alt="wazuh" width="40" height="40"/> </a>
             </th>
-            <th>
-              <a href="" target="" rel="">
+            <!--<th>
+              <a href="_blank" target="noreferrer" rel="">
                 <img src="" alt="" width="40" height="40"/> </a>
-            </th>
+            </th>-->
           </tr>
         </thead>
       </table>
@@ -242,13 +242,13 @@ Here are some ideas to help you plan:
             </tr>
             <th>
               <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Metasploit%20Penetration%20Testing%20Cookbook.pdf" target="_blank" rel="noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="Metasploit Framework" width="40" height="40"/> </a>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="Metasploit Framework" width="40" /> </a>
             </th>
           </tr>
         </thrad>
       </table>
     </div> 
-    <h2>📋Broker</h2
+    <h2>📕Broker</h2
       <div display="flex">
         <table class="center">
           <caption>
