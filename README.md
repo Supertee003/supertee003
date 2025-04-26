@@ -150,7 +150,7 @@ Here are some ideas to help you plan:
               <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
             <th scope="col">
               <a href="https://swagger.io/docs/specification/v2_0/authentication/authentication/" target="_blank" rel="noreferrer">
-              <img srv="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cib-swagger_%28CoreUI_Icons_v1.0.0%29.svg" alt="swagger" width="40" height="40"/> </a>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Cib-swagger_%28CoreUI_Icons_v1.0.0%29.svg" alt="swagger" width="40" height="40"/> </a>
             </th>
           </tr>
         </thead>
@@ -254,11 +254,11 @@ Here are some ideas to help you plan:
               </th>
               <th scope="col">
               <a href="https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf" target="_blank" rel="noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Articons-black_cyberghost.svg" alt="" width="40" height="40"/> </a>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Articons-black_cyberghost.svg" alt="cyberghost" width="40" height="40"/> </a>
             </th
               <th scope="col">
               <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Metasploit%20Penetration%20Testing%20Cookbook.pdf" target="_blank" rel="noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="Metasploit Framework" width="40" height="10"/> </a>
+              <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="metasploit framework" width="40" height="20"/> </a>
             </th>
             </tr>
            </thead>
