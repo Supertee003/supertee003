@@ -255,7 +255,7 @@ Here are some ideas to help you plan:
               <th scope="col">
               <a href="https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf" target="_blank" rel="noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Articons-black_cyberghost.svg" alt="cyberghost" width="40" height="40"/> </a>
-            </th
+              </th>
               <th scope="col">
               <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Metasploit%20Penetration%20Testing%20Cookbook.pdf" target="_blank" rel="noreferrer">
               <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Metasploit_logo_and_wordmark.svg" alt="metasploit framework" width="40" height="20"/> </a>
