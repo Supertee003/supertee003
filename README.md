@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&show_icons=truer&rank_icon=github&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&theme=onedark)
 ## Hi there 👋
 
 
@@ -254,7 +254,7 @@ Here are some ideas to help you plan:
               </th>
               <th scope="col">
               <a href="https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf" target="_blank" rel="noreferrer">
-              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Articons-black_cyberghost.svg" alt="cyberghost" width="40" height="40"/> </a>
+              <img src="https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=200138" alt="cyberghost" width="40" height="40"/> </a>
               </th>
               <th scope="col">
               <a href="https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Metasploit%20Penetration%20Testing%20Cookbook.pdf" target="_blank" rel="noreferrer">
