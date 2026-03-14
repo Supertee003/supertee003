@@ -173,7 +173,7 @@ Here are some ideas to help you plan:
               <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Splunk_logo.svg" alt="splunk" width="40" height="40"/> </a>
             </th>
             <th scope="col">
-              <a href="https://book.blueteamguides.com/xdr/wazuh" target="_blank" rel="noreferrer">
+              <a href="https://web.archive.org/web/20250722142000/https://book.blueteamguides.com/xdr/wazuh" target="_blank" rel="noreferrer">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Wazuh-2016_2022-Logo.svg" alt="wazuh" width="40" height="40"/> </a>
             </th>
             <!--<th>
