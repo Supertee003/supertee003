@@ -7,7 +7,7 @@
 Here are some ideas to help you plan:
 
 - 🔭 I’m currently focusing on
-  `Clients in Prison and Probation Services`
+  `Clients in Campus and Probation Services`
   
 - 🌱 I’m currently learning 
   `CVE`
