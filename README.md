@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supertee003&theme=onedark)
+
 ## Hi there 👋
 
 
